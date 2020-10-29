@@ -1,0 +1,1 @@
+git addしてgit commitしてgit pushする。
